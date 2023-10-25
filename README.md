@@ -8,4 +8,4 @@
   
 
 <h2>🤳Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/tlang3
+[linkedin]:www.linkedin.com/in/terrance-lang-4a2885296
